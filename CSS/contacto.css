@@ -22,7 +22,6 @@ body {
 /* Estilos del Encabezado (Header) - COPIA DE LAS PÁGINAS ANTERIORES */
 header {
     background-color: var(--color-fondo-header-footer);
-    padding: 25px 50px;
     display: flex;
     justify-content: space-between;
     align-items: center;
